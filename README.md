@@ -1,1 +1,1 @@
-# openxcplatform.com
+# bungaslot.openxcplatform.com
